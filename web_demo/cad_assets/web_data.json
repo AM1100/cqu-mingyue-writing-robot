@@ -1,0 +1,244 @@
+{
+  "partCount": 25,
+  "assemblyCount": 1,
+  "basis": "原 CAD 模式使用装配体缓存三角网格与实例位置；运动演示为独立参数化重建，未求解 SolidWorks 原生装配配合。",
+  "parts": [
+    {
+      "name": "荧光时钟装配体.SLDASM",
+      "preview": "previews/荧光时钟装配体.png",
+      "assembly": true,
+      "referenced": true,
+      "note": "主装配体：含 17 个顶层引用（14 零件实例 + 3 个舵机装配体，展开共 44 个叶实例）；世界包围盒 span ≈ 116.8×103.2×123.7 mm，+Y 朝上。",
+      "references": [
+        "荧光时钟从动壁1-1",
+        "荧光时钟从动壁2-1",
+        "荧光时钟底板-1",
+        "荧光时钟舵机安装板-1",
+        "荧光时钟舵机垫板-1",
+        "荧光时钟舵机隔板-1",
+        "荧光时钟俯仰舵机安装板-1",
+        "荧光时钟上盖板-1",
+        "荧光时钟主动臂-1",
+        "荧光时钟侧板-2",
+        "荧光时钟侧板-3",
+        "荧光时钟背板-3",
+        "荧光时钟舵机隔板-2",
+        "荧光时钟舵机隔板-3",
+        "舵机装配体-2",
+        "舵机装配体-3",
+        "舵机装配体-5"
+      ]
+    },
+    {
+      "name": "荧光时钟上盖板.SLDPRT",
+      "preview": "previews/荧光时钟上盖板.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "装配引用 1 件（荧光时钟上盖板-1）；外形 87.5×54×3 mm。",
+      "references": [
+        "荧光时钟上盖板-1"
+      ]
+    },
+    {
+      "name": "荧光时钟主动臂.SLDPRT",
+      "preview": "previews/荧光时钟主动臂.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "装配体中仅引用 1 个实例（荧光时钟主动臂-1）；草图尺寸孔距 35 mm、厚 3 mm。",
+      "references": [
+        "荧光时钟主动臂-1"
+      ]
+    },
+    {
+      "name": "荧光时钟从动壁1.SLDPRT",
+      "preview": "previews/荧光时钟从动壁1.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "装配引用：荧光时钟从动壁1-1；草图尺寸孔距 45 mm、厚 3 mm。",
+      "references": [
+        "荧光时钟从动壁1-1"
+      ]
+    },
+    {
+      "name": "荧光时钟从动壁2.SLDPRT",
+      "preview": "previews/荧光时钟从动壁2.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "带笔夹叉口从动臂（荧光时钟从动壁2-1）；草图尺寸主杆 45 mm、笔偏置 13 mm、偏置角 60°/135°、厚 3 mm。",
+      "references": [
+        "荧光时钟从动壁2-1"
+      ]
+    },
+    {
+      "name": "荧光时钟侧板.SLDPRT",
+      "preview": "previews/荧光时钟侧板.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "装配引用 2 件（荧光时钟侧板-2、荧光时钟侧板-3）；外形 98.3×62.9×3 mm。",
+      "references": [
+        "荧光时钟侧板-2",
+        "荧光时钟侧板-3"
+      ]
+    },
+    {
+      "name": "荧光时钟俯仰舵机安装板.SLDPRT",
+      "preview": "previews/荧光时钟俯仰舵机安装板.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "抬笔俯仰舵机安装板（荧光时钟俯仰舵机安装板-1）；外形 54×26×3 mm。",
+      "references": [
+        "荧光时钟俯仰舵机安装板-1"
+      ]
+    },
+    {
+      "name": "荧光时钟底板.SLDPRT",
+      "preview": "previews/荧光时钟底板.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "底座主框板（荧光时钟底板-1）；草图可见厚 3 mm、孔径 Ø3 等，外形 81.5×86×3 mm。",
+      "references": [
+        "荧光时钟底板-1"
+      ]
+    },
+    {
+      "name": "荧光时钟背板.SLDPRT",
+      "preview": "previews/荧光时钟背板.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "装配引用 1 件（荧光时钟背板-3）；外形 103×35.5×3 mm。",
+      "references": [
+        "荧光时钟背板-3"
+      ]
+    },
+    {
+      "name": "荧光时钟舵机垫板.SLDPRT",
+      "preview": "previews/荧光时钟舵机垫板.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "舵机垫板（荧光时钟舵机垫板-1）；外形 37.5×18×3 mm。",
+      "references": [
+        "荧光时钟舵机垫板-1"
+      ]
+    },
+    {
+      "name": "荧光时钟舵机安装板.SLDPRT",
+      "preview": "previews/荧光时钟舵机安装板.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "平面双舵机安装板（荧光时钟舵机安装板-1）；外形 72×18×3 mm。",
+      "references": [
+        "荧光时钟舵机安装板-1"
+      ]
+    },
+    {
+      "name": "荧光时钟舵机隔板.SLDPRT",
+      "preview": "previews/荧光时钟舵机隔板.png",
+      "assembly": false,
+      "referenced": true,
+      "note": "装配引用 3 件（荧光时钟舵机隔板-1/2/3）；外形 24×24.3×3 mm。",
+      "references": [
+        "荧光时钟舵机隔板-1",
+        "荧光时钟舵机隔板-2",
+        "荧光时钟舵机隔板-3"
+      ]
+    },
+    {
+      "name": "Part_10_15.SLDPRT",
+      "preview": "previews/Part_10_15.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 6.0×15.9×9.4 mm。"
+    },
+    {
+      "name": "real侧板2 - 副本.SLDPRT",
+      "preview": "previews/real侧板2 - 副本.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 98.3×3.0×62.9 mm。"
+    },
+    {
+      "name": "real侧板right - 副本.SLDPRT",
+      "preview": "previews/real侧板right - 副本.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 98.3×3.0×62.9 mm。"
+    },
+    {
+      "name": "sky.SLDPRT",
+      "preview": "previews/sky.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 75.0×76.0×84.1 mm。"
+    },
+    {
+      "name": "上盖板.SLDPRT",
+      "preview": "previews/上盖板.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 87.5×3.0×54.0 mm。"
+    },
+    {
+      "name": "侧板 - 副本.SLDPRT",
+      "preview": "previews/侧板 - 副本.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 103.0×3.0×35.6 mm。"
+    },
+    {
+      "name": "俯仰舵机垫板.SLDPRT",
+      "preview": "previews/俯仰舵机垫板.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 34.5×3.0×15.0 mm。"
+    },
+    {
+      "name": "俯仰舵机安装板.SLDPRT",
+      "preview": "previews/俯仰舵机安装板.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 54.0×3.0×26.0 mm。"
+    },
+    {
+      "name": "垫板 - 副本.SLDPRT",
+      "preview": "previews/垫板 - 副本.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 37.5×3.0×18.1 mm。"
+    },
+    {
+      "name": "底板 - 副本.SLDPRT",
+      "preview": "previews/底板 - 副本.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 86.3×3.0×86.0 mm。"
+    },
+    {
+      "name": "舵机安装板 - 副本.SLDPRT",
+      "preview": "previews/舵机安装板 - 副本.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 72.0×3.0×18.0 mm。"
+    },
+    {
+      "name": "舵机安装板侧666 - 副本.step.SLDPRT",
+      "preview": "previews/舵机安装板侧666 - 副本.step.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 22.6×3.0×28.7 mm。"
+    },
+    {
+      "name": "隔板.SLDPRT",
+      "preview": "previews/隔板.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 24.0×3.0×24.3 mm。"
+    },
+    {
+      "name": "零件1.SLDPRT",
+      "preview": "previews/零件1.png",
+      "assembly": false,
+      "referenced": false,
+      "note": "存在于交付.zip，但未被荧光时钟装配体.SLDASM引用（疑似历史/副本或独立零件），不可未经核对直接混装。 局部包围盒 22.6×3.0×28.7 mm。"
+    }
+  ]
+}

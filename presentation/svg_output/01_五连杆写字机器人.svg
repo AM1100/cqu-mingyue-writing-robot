@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="28" data-pptx-page-role="cover">
+<rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F7F9FC"/>
+<rect id="hero-field" data-pptx-role="decoration" x="548" y="0" width="732" height="720" fill="#EAF0F7"/>
+<g id="cover-title" data-pptx-bounds="56 70 480 290" fill="#173B57"><text x="56" y="104" font-size="20" fill="#2867A8">工程基础课程 · 项目答辩</text><text x="56" y="220" font-size="72" font-weight="bold">五连杆<tspan x="56" dy="94">写字机器人</tspan></text></g>
+<g id="cover-thesis" data-pptx-bounds="56 386 470 225" fill="#213547"><rect x="56" y="390" width="54" height="5" fill="#D97421"/><text x="56" y="445" font-size="32">让笔尖按轨迹走，<tspan x="56" dy="48">而不是凭角度试。</tspan></text><text x="56" y="566" font-size="20" fill="#586B7D">结构建模 / 运动学 / 三舵机控制</text></g>
+<g id="robot-hero" data-pptx-bounds="560 120 664 488"><image href="../images/robot_cqu_3d.png" x="560" y="132" width="664" height="410" preserveAspectRatio="xMidYMid meet"/><text x="892" y="581" font-size="20" text-anchor="middle" fill="#586B7D">项目 HTML 参数化演示 · 非实机效果图</text></g>
+<text id="footer" data-pptx-role="footer" x="56" y="674" font-size="14" fill="#586B7D">工程基础 · 从机械到程序的完整解释链</text><text id="number" data-pptx-role="page-number" x="1224" y="674" text-anchor="end" font-size="14" fill="#586B7D">01 / 16</text>
+</svg>

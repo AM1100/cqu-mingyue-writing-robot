@@ -1,0 +1,2435 @@
+{
+  "Part_10_15.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -3.0,
+        -7.97,
+        -4.725
+      ],
+      "max": [
+        3.0,
+        7.97,
+        4.725
+      ],
+      "span": [
+        6.0,
+        15.939,
+        9.45
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 1452,
+      "triangles": 484
+    },
+    "keywords_dimensions": []
+  },
+  "real侧板2 - 副本.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -58.137,
+        -0.0,
+        -39.24
+      ],
+      "max": [
+        40.159,
+        3.0,
+        23.658
+      ],
+      "span": [
+        98.296,
+        3.0,
+        62.898
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 534,
+      "triangles": 320
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "60"
+          },
+          {
+            "name": "D3",
+            "value": "3"
+          },
+          {
+            "name": "D2",
+            "value": "50"
+          },
+          {
+            "name": "D4",
+            "value": "5.6"
+          },
+          {
+            "name": "D6",
+            "value": "3"
+          },
+          {
+            "name": "D7",
+            "value": "3"
+          },
+          {
+            "name": "D10",
+            "value": "1"
+          },
+          {
+            "name": "D5",
+            "value": "5.6"
+          },
+          {
+            "name": "D11",
+            "value": "1"
+          },
+          {
+            "name": "D9",
+            "value": "3.5"
+          },
+          {
+            "name": "D8",
+            "value": "3.5"
+          },
+          {
+            "name": "D12",
+            "value": "9"
+          },
+          {
+            "name": "D14",
+            "value": "3"
+          },
+          {
+            "name": "D15",
+            "value": "4"
+          },
+          {
+            "name": "D13",
+            "value": "3"
+          },
+          {
+            "name": "D16",
+            "value": "4"
+          },
+          {
+            "name": "D17",
+            "value": "4"
+          }
+        ]
+      }
+    ]
+  },
+  "real侧板right - 副本.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -58.137,
+        -0.0,
+        -39.24
+      ],
+      "max": [
+        40.159,
+        3.0,
+        23.658
+      ],
+      "span": [
+        98.296,
+        3.0,
+        62.898
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 534,
+      "triangles": 320
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "60"
+          },
+          {
+            "name": "D3",
+            "value": "3"
+          },
+          {
+            "name": "D2",
+            "value": "50"
+          },
+          {
+            "name": "D4",
+            "value": "5.6"
+          },
+          {
+            "name": "D6",
+            "value": "3"
+          },
+          {
+            "name": "D7",
+            "value": "3"
+          },
+          {
+            "name": "D10",
+            "value": "1"
+          },
+          {
+            "name": "D5",
+            "value": "5.6"
+          },
+          {
+            "name": "D11",
+            "value": "1"
+          },
+          {
+            "name": "D9",
+            "value": "3.5"
+          },
+          {
+            "name": "D8",
+            "value": "3.5"
+          },
+          {
+            "name": "D12",
+            "value": "9"
+          },
+          {
+            "name": "D14",
+            "value": "3"
+          },
+          {
+            "name": "D15",
+            "value": "4"
+          },
+          {
+            "name": "D13",
+            "value": "3"
+          },
+          {
+            "name": "D16",
+            "value": "4"
+          },
+          {
+            "name": "D17",
+            "value": "4"
+          }
+        ]
+      }
+    ]
+  },
+  "sky.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -37.5,
+        -13.957,
+        -17.594
+      ],
+      "max": [
+        37.5,
+        62.062,
+        66.498
+      ],
+      "span": [
+        75.0,
+        76.02,
+        84.092
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 1546,
+      "triangles": 1068
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸2",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "75"
+          }
+        ]
+      },
+      {
+        "tag": "Extrusion",
+        "feature": "切除-拉伸-薄壁7",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D5",
+            "value": "10"
+          }
+        ]
+      },
+      {
+        "tag": "Extrusion",
+        "feature": "切除-拉伸19",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "0.5"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "圆角1",
+        "type": "圆角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R10"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "圆角2",
+        "type": "圆角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R10"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "倒角1",
+        "type": "倒角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "10"
+          },
+          {
+            "name": "D2",
+            "value": "45°"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "圆角4",
+        "type": "圆角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R4"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "圆角5",
+        "type": "圆角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R4"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "圆角6",
+        "type": "圆角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R4"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "圆角7",
+        "type": "圆角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R4"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "圆角8",
+        "type": "圆角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R4"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "圆角9",
+        "type": "圆角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R4"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图3",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "30"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图7",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "20"
+          },
+          {
+            "name": "D2",
+            "value": "30"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D8",
+            "value": "28"
+          },
+          {
+            "name": "D6",
+            "value": "15.5"
+          },
+          {
+            "name": "D3",
+            "value": "45"
+          },
+          {
+            "name": "D1",
+            "value": "75"
+          },
+          {
+            "name": "D2",
+            "value": "80"
+          },
+          {
+            "name": "D4",
+            "value": "60°"
+          },
+          {
+            "name": "D5",
+            "value": "31"
+          },
+          {
+            "name": "D7",
+            "value": "4.5"
+          },
+          {
+            "name": "D10",
+            "value": "4"
+          },
+          {
+            "name": "D9",
+            "value": "3.5"
+          }
+        ]
+      }
+    ]
+  },
+  "上盖板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -67.313,
+        0.0,
+        -27.604
+      ],
+      "max": [
+        20.187,
+        3.0,
+        26.396
+      ],
+      "span": [
+        87.5,
+        3.0,
+        54.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 184,
+      "triangles": 100
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "侧板 - 副本.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -64.62,
+        -3.0,
+        -12.612
+      ],
+      "max": [
+        38.38,
+        0.0,
+        23.0
+      ],
+      "span": [
+        103.0,
+        3.0,
+        35.612
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 782,
+      "triangles": 512
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸3",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D15",
+            "value": "6.5"
+          },
+          {
+            "name": "D21",
+            "value": "R10"
+          },
+          {
+            "name": "D20",
+            "value": "10"
+          },
+          {
+            "name": "D12",
+            "value": "6"
+          },
+          {
+            "name": "D13",
+            "value": "3"
+          },
+          {
+            "name": "D11",
+            "value": "3"
+          },
+          {
+            "name": "D3",
+            "value": "3"
+          },
+          {
+            "name": "D19",
+            "value": "3"
+          },
+          {
+            "name": "D2",
+            "value": "3"
+          },
+          {
+            "name": "D16",
+            "value": "14.5"
+          },
+          {
+            "name": "D5",
+            "value": "3"
+          },
+          {
+            "name": "D6",
+            "value": "6"
+          },
+          {
+            "name": "D1",
+            "value": "23"
+          },
+          {
+            "name": "D4",
+            "value": "3"
+          },
+          {
+            "name": "D10",
+            "value": "30"
+          },
+          {
+            "name": "D17",
+            "value": "7"
+          },
+          {
+            "name": "D18",
+            "value": "6"
+          },
+          {
+            "name": "D7",
+            "value": "3"
+          },
+          {
+            "name": "D14",
+            "value": "14.5"
+          },
+          {
+            "name": "D8",
+            "value": "3"
+          },
+          {
+            "name": "D9",
+            "value": "36.5"
+          },
+          {
+            "name": "D22",
+            "value": "3"
+          },
+          {
+            "name": "D23",
+            "value": "5"
+          }
+        ]
+      }
+    ]
+  },
+  "俯仰舵机垫板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -46.341,
+        0.0,
+        -15.0
+      ],
+      "max": [
+        -11.841,
+        3.0,
+        0.0
+      ],
+      "span": [
+        34.5,
+        3.0,
+        15.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 326,
+      "triangles": 228
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "俯仰舵机安装板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -45.983,
+        0.0,
+        -16.5
+      ],
+      "max": [
+        8.017,
+        3.0,
+        9.5
+      ],
+      "span": [
+        54.0,
+        3.0,
+        26.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 462,
+      "triangles": 300
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "垫板 - 副本.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -15.016,
+        0.0,
+        -15.13
+      ],
+      "max": [
+        22.484,
+        3.0,
+        3.0
+      ],
+      "span": [
+        37.5,
+        3.0,
+        18.13
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 552,
+      "triangles": 380
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸3",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "9"
+          },
+          {
+            "name": "D2",
+            "value": "1.5"
+          },
+          {
+            "name": "D6",
+            "value": "4"
+          },
+          {
+            "name": "D4",
+            "value": "3"
+          },
+          {
+            "name": "D5",
+            "value": "30"
+          },
+          {
+            "name": "D3",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "底板 - 副本.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -33.839,
+        0.0,
+        -96.512
+      ],
+      "max": [
+        52.491,
+        3.0,
+        -10.512
+      ],
+      "span": [
+        86.329,
+        3.0,
+        86.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 1726,
+      "triangles": 1220
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D15",
+            "value": "3"
+          },
+          {
+            "name": "D14",
+            "value": "3"
+          },
+          {
+            "name": "D16",
+            "value": "3"
+          },
+          {
+            "name": "D3",
+            "value": "7"
+          },
+          {
+            "name": "D11",
+            "value": "69.5"
+          },
+          {
+            "name": "D10",
+            "value": "49.5"
+          },
+          {
+            "name": "D9",
+            "value": "23"
+          },
+          {
+            "name": "D12",
+            "value": "23.5"
+          },
+          {
+            "name": "D13",
+            "value": "11.5"
+          },
+          {
+            "name": "D4",
+            "value": "7"
+          },
+          {
+            "name": "D5",
+            "value": "7"
+          },
+          {
+            "name": "D6",
+            "value": "23"
+          },
+          {
+            "name": "D7",
+            "value": "7"
+          },
+          {
+            "name": "D1",
+            "value": "R3"
+          },
+          {
+            "name": "D2",
+            "value": "R3"
+          },
+          {
+            "name": "D17",
+            "value": "3"
+          },
+          {
+            "name": "D8",
+            "value": "7"
+          }
+        ]
+      }
+    ]
+  },
+  "舵机安装板 - 副本.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -44.906,
+        0.0,
+        -28.843
+      ],
+      "max": [
+        27.094,
+        3.0,
+        -10.843
+      ],
+      "span": [
+        72.0,
+        3.0,
+        18.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 1218,
+      "triangles": 864
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "舵机安装板侧666 - 副本.step.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -5.98,
+        -0.0,
+        0.0
+      ],
+      "max": [
+        16.667,
+        3.0,
+        28.667
+      ],
+      "span": [
+        22.646,
+        3.0,
+        28.667
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 358,
+      "triangles": 264
+    },
+    "keywords_dimensions": []
+  },
+  "荧光时钟上盖板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        0.0,
+        -54.0,
+        0.0
+      ],
+      "max": [
+        87.5,
+        0.0,
+        3.0
+      ],
+      "span": [
+        87.5,
+        54.0,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 184,
+      "triangles": 100
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D3",
+            "value": "3"
+          },
+          {
+            "name": "D2",
+            "value": "3"
+          },
+          {
+            "name": "D1",
+            "value": "4"
+          },
+          {
+            "name": "D6",
+            "value": "3"
+          },
+          {
+            "name": "D5",
+            "value": "47"
+          },
+          {
+            "name": "D7",
+            "value": "3"
+          },
+          {
+            "name": "D4",
+            "value": "3"
+          },
+          {
+            "name": "D9",
+            "value": "63.5"
+          },
+          {
+            "name": "D11",
+            "value": "3"
+          },
+          {
+            "name": "D13",
+            "value": "20"
+          },
+          {
+            "name": "D8",
+            "value": "3"
+          },
+          {
+            "name": "D10",
+            "value": "3"
+          },
+          {
+            "name": "D12",
+            "value": "15"
+          },
+          {
+            "name": "D14",
+            "value": "12"
+          },
+          {
+            "name": "D15",
+            "value": "39.5"
+          },
+          {
+            "name": "D17",
+            "value": "3"
+          },
+          {
+            "name": "D16",
+            "value": "3"
+          },
+          {
+            "name": "D18",
+            "value": "4"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟主动臂.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -6.0,
+        -5.994,
+        0.0
+      ],
+      "max": [
+        41.0,
+        5.994,
+        3.0
+      ],
+      "span": [
+        47.0,
+        11.987,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 678,
+      "triangles": 516
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D2",
+            "value": "<MOD-DIAM>2.5"
+          },
+          {
+            "name": "D1",
+            "value": "R3"
+          },
+          {
+            "name": "D3",
+            "value": "<MOD-DIAM>4"
+          },
+          {
+            "name": "D6",
+            "value": "R6"
+          },
+          {
+            "name": "D4",
+            "value": "35"
+          },
+          {
+            "name": "D5",
+            "value": "8.5"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟从动壁1.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -6.0,
+        -5.996,
+        0.0
+      ],
+      "max": [
+        51.0,
+        5.996,
+        3.0
+      ],
+      "span": [
+        57.0,
+        11.992,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 654,
+      "triangles": 492
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R4.81518"
+          },
+          {
+            "name": "D2",
+            "value": "8.5"
+          },
+          {
+            "name": "D3",
+            "value": "45"
+          },
+          {
+            "name": "D4",
+            "value": "R6"
+          },
+          {
+            "name": "D5",
+            "value": "<MOD-DIAM>4"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟从动壁2.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -6.0,
+        -16.683,
+        0.0
+      ],
+      "max": [
+        61.683,
+        5.984,
+        3.0
+      ],
+      "span": [
+        67.683,
+        22.667,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 794,
+      "triangles": 612
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D7",
+            "value": "R6"
+          },
+          {
+            "name": "D2",
+            "value": "R2"
+          },
+          {
+            "name": "D6",
+            "value": "<MOD-DIAM>4"
+          },
+          {
+            "name": "D10",
+            "value": "R4"
+          },
+          {
+            "name": "D12",
+            "value": "R7.5"
+          },
+          {
+            "name": "D1",
+            "value": "R2"
+          },
+          {
+            "name": "D5",
+            "value": "45"
+          },
+          {
+            "name": "D4",
+            "value": "60°"
+          },
+          {
+            "name": "D3",
+            "value": "135°"
+          },
+          {
+            "name": "D11",
+            "value": "13"
+          },
+          {
+            "name": "D8",
+            "value": "8.5"
+          },
+          {
+            "name": "D9",
+            "value": "6"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟侧板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -98.296,
+        -62.898,
+        -0.0
+      ],
+      "max": [
+        0.0,
+        0.0,
+        3.0
+      ],
+      "span": [
+        98.296,
+        62.898,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 532,
+      "triangles": 320
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D9",
+            "value": "3"
+          },
+          {
+            "name": "D11",
+            "value": "5.6"
+          },
+          {
+            "name": "D12",
+            "value": "3"
+          },
+          {
+            "name": "D10",
+            "value": "1"
+          },
+          {
+            "name": "D13",
+            "value": "1"
+          },
+          {
+            "name": "D14",
+            "value": "3.5"
+          },
+          {
+            "name": "D15",
+            "value": "48"
+          },
+          {
+            "name": "D16",
+            "value": "3"
+          },
+          {
+            "name": "D17",
+            "value": "3.5"
+          },
+          {
+            "name": "D18",
+            "value": "4"
+          },
+          {
+            "name": "D19",
+            "value": "1"
+          },
+          {
+            "name": "D20",
+            "value": "3"
+          },
+          {
+            "name": "D22",
+            "value": "5.6"
+          },
+          {
+            "name": "D21",
+            "value": "1"
+          },
+          {
+            "name": "D23",
+            "value": "3"
+          },
+          {
+            "name": "D25",
+            "value": "3.5"
+          },
+          {
+            "name": "D24",
+            "value": "1"
+          },
+          {
+            "name": "D26",
+            "value": "19"
+          },
+          {
+            "name": "D27",
+            "value": "50"
+          },
+          {
+            "name": "D28",
+            "value": "165°"
+          },
+          {
+            "name": "D43",
+            "value": "<MOD-DIAM>4"
+          },
+          {
+            "name": "D31",
+            "value": "6"
+          },
+          {
+            "name": "D33",
+            "value": "3"
+          },
+          {
+            "name": "D30",
+            "value": "3"
+          },
+          {
+            "name": "D29",
+            "value": "3"
+          },
+          {
+            "name": "D32",
+            "value": "90°"
+          },
+          {
+            "name": "D37",
+            "value": "3"
+          },
+          {
+            "name": "D35",
+            "value": "4"
+          },
+          {
+            "name": "D34",
+            "value": "3.5"
+          },
+          {
+            "name": "D36",
+            "value": "1"
+          },
+          {
+            "name": "D40",
+            "value": "3"
+          },
+          {
+            "name": "D39",
+            "value": "5.6"
+          },
+          {
+            "name": "D38",
+            "value": "1"
+          },
+          {
+            "name": "D42",
+            "value": "3.5"
+          },
+          {
+            "name": "D41",
+            "value": "1"
+          },
+          {
+            "name": "D45",
+            "value": "10.5"
+          },
+          {
+            "name": "D44",
+            "value": "20.5"
+          },
+          {
+            "name": "D1",
+            "value": "60"
+          },
+          {
+            "name": "D2",
+            "value": "50"
+          },
+          {
+            "name": "D3",
+            "value": "9"
+          },
+          {
+            "name": "D5",
+            "value": "3"
+          },
+          {
+            "name": "D4",
+            "value": "75°"
+          },
+          {
+            "name": "D7",
+            "value": "4"
+          },
+          {
+            "name": "D6",
+            "value": "3.5"
+          },
+          {
+            "name": "D8",
+            "value": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟俯仰舵机安装板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -54.0,
+        -26.0,
+        0.0
+      ],
+      "max": [
+        0.0,
+        0.0,
+        3.0
+      ],
+      "span": [
+        54.0,
+        26.0,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 184,
+      "triangles": 100
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D19",
+            "value": "23"
+          },
+          {
+            "name": "D17",
+            "value": "25.5"
+          },
+          {
+            "name": "D20",
+            "value": "13"
+          },
+          {
+            "name": "D18",
+            "value": "13"
+          },
+          {
+            "name": "D16",
+            "value": "6.5"
+          },
+          {
+            "name": "D15",
+            "value": "3.5"
+          },
+          {
+            "name": "D3",
+            "value": "3"
+          },
+          {
+            "name": "D1",
+            "value": "26"
+          },
+          {
+            "name": "D2",
+            "value": "3"
+          },
+          {
+            "name": "D7",
+            "value": "3.5"
+          },
+          {
+            "name": "D4",
+            "value": "51"
+          },
+          {
+            "name": "D5",
+            "value": "6.5"
+          },
+          {
+            "name": "D6",
+            "value": "3"
+          },
+          {
+            "name": "D11",
+            "value": "1"
+          },
+          {
+            "name": "D9",
+            "value": "1"
+          },
+          {
+            "name": "D10",
+            "value": "3"
+          },
+          {
+            "name": "D8",
+            "value": "4"
+          },
+          {
+            "name": "D12",
+            "value": "5.6"
+          },
+          {
+            "name": "D13",
+            "value": "3"
+          },
+          {
+            "name": "D14",
+            "value": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟底板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -6.0,
+        -86.0,
+        0.0
+      ],
+      "max": [
+        75.5,
+        0.0,
+        3.0
+      ],
+      "span": [
+        81.5,
+        86.0,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 1668,
+      "triangles": 1168
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D7",
+            "value": "R3"
+          },
+          {
+            "name": "D5",
+            "value": "R3"
+          },
+          {
+            "name": "D32",
+            "value": "<MOD-DIAM>3"
+          },
+          {
+            "name": "D9",
+            "value": "R3"
+          },
+          {
+            "name": "D36",
+            "value": "<MOD-DIAM>3"
+          },
+          {
+            "name": "D34",
+            "value": "<MOD-DIAM>3"
+          },
+          {
+            "name": "D37",
+            "value": "<MOD-DIAM>3"
+          },
+          {
+            "name": "D41",
+            "value": "<MOD-DIAM>3"
+          },
+          {
+            "name": "D42",
+            "value": "<MOD-DIAM>3"
+          },
+          {
+            "name": "D44",
+            "value": "<MOD-DIAM>3"
+          },
+          {
+            "name": "D45",
+            "value": "<MOD-DIAM>3"
+          },
+          {
+            "name": "D1",
+            "value": "40"
+          },
+          {
+            "name": "D2",
+            "value": "17"
+          },
+          {
+            "name": "D3",
+            "value": "2"
+          },
+          {
+            "name": "D10",
+            "value": "17"
+          },
+          {
+            "name": "D8",
+            "value": "8"
+          },
+          {
+            "name": "D6",
+            "value": "4"
+          },
+          {
+            "name": "D4",
+            "value": "4"
+          },
+          {
+            "name": "D12",
+            "value": "7"
+          },
+          {
+            "name": "D13",
+            "value": "3"
+          },
+          {
+            "name": "D11",
+            "value": "6"
+          },
+          {
+            "name": "D15",
+            "value": "23"
+          },
+          {
+            "name": "D18",
+            "value": "7"
+          },
+          {
+            "name": "D14",
+            "value": "3"
+          },
+          {
+            "name": "D16",
+            "value": "7"
+          },
+          {
+            "name": "D17",
+            "value": "49.5"
+          },
+          {
+            "name": "D21",
+            "value": "11.5"
+          },
+          {
+            "name": "D20",
+            "value": "7"
+          },
+          {
+            "name": "D19",
+            "value": "23"
+          },
+          {
+            "name": "D24",
+            "value": "7"
+          },
+          {
+            "name": "D23",
+            "value": "3"
+          },
+          {
+            "name": "D22",
+            "value": "69.5"
+          },
+          {
+            "name": "D28",
+            "value": "7"
+          },
+          {
+            "name": "D26",
+            "value": "23"
+          },
+          {
+            "name": "D25",
+            "value": "3"
+          },
+          {
+            "name": "D27",
+            "value": "3"
+          },
+          {
+            "name": "D30",
+            "value": "15"
+          },
+          {
+            "name": "D31",
+            "value": "19"
+          },
+          {
+            "name": "D38",
+            "value": "32"
+          },
+          {
+            "name": "D29",
+            "value": "3"
+          },
+          {
+            "name": "D33",
+            "value": "29"
+          },
+          {
+            "name": "D35",
+            "value": "32"
+          },
+          {
+            "name": "D43",
+            "value": "4.5"
+          },
+          {
+            "name": "D40",
+            "value": "4.5"
+          },
+          {
+            "name": "D39",
+            "value": "29"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟背板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        0.0,
+        27.67,
+        0.0
+      ],
+      "max": [
+        103.0,
+        63.17,
+        3.0
+      ],
+      "span": [
+        103.0,
+        35.5,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 760,
+      "triangles": 512
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D2",
+            "value": "23"
+          },
+          {
+            "name": "D1",
+            "value": "7"
+          },
+          {
+            "name": "D6",
+            "value": "3"
+          },
+          {
+            "name": "D3",
+            "value": "6"
+          },
+          {
+            "name": "D4",
+            "value": "3"
+          },
+          {
+            "name": "D5",
+            "value": "3"
+          },
+          {
+            "name": "D10",
+            "value": "3"
+          },
+          {
+            "name": "D8",
+            "value": "12"
+          },
+          {
+            "name": "D7",
+            "value": "6"
+          },
+          {
+            "name": "D9",
+            "value": "36.5"
+          },
+          {
+            "name": "D12",
+            "value": "3"
+          },
+          {
+            "name": "D13",
+            "value": "14.5"
+          },
+          {
+            "name": "D11",
+            "value": "30"
+          },
+          {
+            "name": "D15",
+            "value": "103"
+          },
+          {
+            "name": "D14",
+            "value": "10"
+          },
+          {
+            "name": "D16",
+            "value": "2.5"
+          },
+          {
+            "name": "D17",
+            "value": "1.5"
+          },
+          {
+            "name": "D18",
+            "value": "3"
+          },
+          {
+            "name": "D21",
+            "value": "3"
+          },
+          {
+            "name": "D19",
+            "value": "6.5"
+          },
+          {
+            "name": "D20",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟舵机垫板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        0.0,
+        -18.0,
+        0.0
+      ],
+      "max": [
+        37.5,
+        0.0,
+        3.0
+      ],
+      "span": [
+        37.5,
+        18.0,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 410,
+      "triangles": 280
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸9",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D9",
+            "value": "10"
+          },
+          {
+            "name": "D10",
+            "value": "4"
+          },
+          {
+            "name": "D8",
+            "value": "3"
+          },
+          {
+            "name": "D7",
+            "value": "4"
+          },
+          {
+            "name": "D5",
+            "value": "3"
+          },
+          {
+            "name": "D6",
+            "value": "30"
+          },
+          {
+            "name": "D4",
+            "value": "3"
+          },
+          {
+            "name": "D1",
+            "value": "18"
+          },
+          {
+            "name": "D3",
+            "value": "4"
+          },
+          {
+            "name": "D2",
+            "value": "1.5"
+          },
+          {
+            "name": "D12",
+            "value": "<MOD-DIAM>1.5"
+          },
+          {
+            "name": "D13",
+            "value": "<MOD-DIAM>1.5"
+          },
+          {
+            "name": "D11",
+            "value": "<MOD-DIAM>3"
+          },
+          {
+            "name": "D14",
+            "value": "4.4"
+          },
+          {
+            "name": "D15",
+            "value": "27.5"
+          },
+          {
+            "name": "D16",
+            "value": "2.25"
+          },
+          {
+            "name": "D17",
+            "value": "6"
+          },
+          {
+            "name": "D18",
+            "value": "23"
+          },
+          {
+            "name": "D19",
+            "value": "12"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟舵机安装板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        0.0,
+        -18.0,
+        0.0
+      ],
+      "max": [
+        72.0,
+        0.0,
+        3.0
+      ],
+      "span": [
+        72.0,
+        18.0,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 1250,
+      "triangles": 880
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D15",
+            "value": "<MOD-DIAM>1.5"
+          },
+          {
+            "name": "D16",
+            "value": "<MOD-DIAM>1.5"
+          },
+          {
+            "name": "D2",
+            "value": "1.5"
+          },
+          {
+            "name": "D1",
+            "value": "18"
+          },
+          {
+            "name": "D6",
+            "value": "4"
+          },
+          {
+            "name": "D4",
+            "value": "3"
+          },
+          {
+            "name": "D3",
+            "value": "3"
+          },
+          {
+            "name": "D5",
+            "value": "30"
+          },
+          {
+            "name": "D9",
+            "value": "4"
+          },
+          {
+            "name": "D11",
+            "value": "23"
+          },
+          {
+            "name": "D8",
+            "value": "3"
+          },
+          {
+            "name": "D7",
+            "value": "1.5"
+          },
+          {
+            "name": "D10",
+            "value": "6.5"
+          },
+          {
+            "name": "D17",
+            "value": "27.5"
+          },
+          {
+            "name": "D12",
+            "value": "12"
+          },
+          {
+            "name": "D14",
+            "value": "4.4"
+          },
+          {
+            "name": "D13",
+            "value": "R1.499697"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟舵机隔板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "max": [
+        23.988,
+        24.298,
+        3.0
+      ],
+      "span": [
+        23.988,
+        24.298,
+        3.0
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 506,
+      "triangles": 368
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D17",
+            "value": "<MOD-DIAM>1.5"
+          },
+          {
+            "name": "D13",
+            "value": "R3"
+          },
+          {
+            "name": "D16",
+            "value": "R1"
+          },
+          {
+            "name": "D14",
+            "value": "R3"
+          },
+          {
+            "name": "D2",
+            "value": "6"
+          },
+          {
+            "name": "D1",
+            "value": "4"
+          },
+          {
+            "name": "D3",
+            "value": "3.5"
+          },
+          {
+            "name": "D4",
+            "value": "4"
+          },
+          {
+            "name": "D6",
+            "value": "2.7"
+          },
+          {
+            "name": "D5",
+            "value": "1.25"
+          },
+          {
+            "name": "D7",
+            "value": "2.6"
+          },
+          {
+            "name": "D9",
+            "value": "1.25"
+          },
+          {
+            "name": "D12",
+            "value": "7.5"
+          },
+          {
+            "name": "D8",
+            "value": "3"
+          },
+          {
+            "name": "D10",
+            "value": "3.5"
+          },
+          {
+            "name": "D11",
+            "value": "4"
+          },
+          {
+            "name": "D15",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "荧光时钟装配体.SLDASM": {
+    "bbox_local_mm": null,
+    "mesh_counts": null,
+    "keywords_dimensions": []
+  },
+  "隔板.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -41.304,
+        0.0,
+        -17.166
+      ],
+      "max": [
+        -17.304,
+        3.0,
+        7.116
+      ],
+      "span": [
+        24.0,
+        3.0,
+        24.282
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 498,
+      "triangles": 360
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "零件1.SLDPRT": {
+    "bbox_local_mm": {
+      "min": [
+        -5.98,
+        -0.0,
+        0.0
+      ],
+      "max": [
+        16.667,
+        3.0,
+        28.667
+      ],
+      "span": [
+        22.646,
+        3.0,
+        28.667
+      ]
+    },
+    "mesh_counts": {
+      "vertices": 356,
+      "triangles": 264
+    },
+    "keywords_dimensions": [
+      {
+        "tag": "Extrusion",
+        "feature": "凸台-拉伸1",
+        "type": "凸台-拉伸",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "3"
+          }
+        ]
+      },
+      {
+        "tag": "Feature",
+        "feature": "圆角1",
+        "type": "圆角",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "R10"
+          }
+        ]
+      },
+      {
+        "tag": "Sketch",
+        "feature": "草图1",
+        "type": "",
+        "dimensions": [
+          {
+            "name": "D1",
+            "value": "22"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3277 @@
+{
+  "source_zip": "/home/yang/交付.zip",
+  "extracted_dir": "/home/yang/.config/AionUi/aionui/conversations/users/01a1d4f5-92dc-7062-b225-880a924f573e/2026/11/13/codex-temp-ccbba958/cad_demo/assets_source/交付",
+  "assembly_file": "荧光时钟装配体.SLDASM",
+  "zip_file_counts": {
+    "total": 26,
+    "sldasm": 1,
+    "sldprt": 25
+  },
+  "assembly_summary": {
+    "top_level_references": 17,
+    "leaf_instances": 44,
+    "referenced_source_files": [
+      "Part10^servo motor assembley10.SLDPRT",
+      "Part16^servo motor assembley4.SLDPRT",
+      "Part6^servo motor assembley16.SLDPRT",
+      "Part7^servo motor assembley14.SLDPRT",
+      "Part8^servo motor assembley12.SLDPRT",
+      "feedback potentiometer18.SLDPRT",
+      "lower cover22.SLDPRT",
+      "motor20.SLDPRT",
+      "upper cover8.SLDPRT",
+      "舵机装配体.SLDASM",
+      "舵机转动臂.SLDPRT",
+      "荧光时钟上盖板.SLDPRT",
+      "荧光时钟主动臂.SLDPRT",
+      "荧光时钟从动壁1.SLDPRT",
+      "荧光时钟从动壁2.SLDPRT",
+      "荧光时钟侧板.SLDPRT",
+      "荧光时钟俯仰舵机安装板.SLDPRT",
+      "荧光时钟底板.SLDPRT",
+      "荧光时钟背板.SLDPRT",
+      "荧光时钟舵机垫板.SLDPRT",
+      "荧光时钟舵机安装板.SLDPRT",
+      "荧光时钟舵机隔板.SLDPRT",
+      "荧光时钟装配体.SLDASM"
+    ],
+    "missing_source_files_from_zip": [
+      "Part10^servo motor assembley10.SLDPRT",
+      "Part16^servo motor assembley4.SLDPRT",
+      "Part6^servo motor assembley16.SLDPRT",
+      "Part7^servo motor assembley14.SLDPRT",
+      "Part8^servo motor assembley12.SLDPRT",
+      "feedback potentiometer18.SLDPRT",
+      "lower cover22.SLDPRT",
+      "motor20.SLDPRT",
+      "upper cover8.SLDPRT",
+      "舵机装配体.SLDASM",
+      "舵机转动臂.SLDPRT"
+    ],
+    "missing_source_note": "舵机装配体.SLDASM and its 10 servo .SLDPRT files are not included in 交付.zip, but their cached triangle meshes and transforms ARE present inside 荧光时钟装配体.SLDASM FaceTessellations and COMPINSTANCETREE.",
+    "unreferenced_parts_in_zip": [
+      "Part_10_15.SLDPRT",
+      "real侧板2 - 副本.SLDPRT",
+      "real侧板right - 副本.SLDPRT",
+      "sky.SLDPRT",
+      "上盖板.SLDPRT",
+      "侧板 - 副本.SLDPRT",
+      "俯仰舵机垫板.SLDPRT",
+      "俯仰舵机安装板.SLDPRT",
+      "垫板 - 副本.SLDPRT",
+      "底板 - 副本.SLDPRT",
+      "舵机安装板 - 副本.SLDPRT",
+      "舵机安装板侧666 - 副本.step.SLDPRT",
+      "隔板.SLDPRT",
+      "零件1.SLDPRT"
+    ],
+    "bbox_world_mm": {
+      "min": [
+        -116.124,
+        54.856,
+        -48.379
+      ],
+      "max": [
+        0.68,
+        158.094,
+        75.334
+      ],
+      "span": [
+        116.804,
+        103.238,
+        123.713
+      ],
+      "xml_swBoundingBox_mm": [
+        -116.1237,
+        44.8039,
+        -48.3786,
+        8.5057,
+        170.6913,
+        75.334
+      ],
+      "upAxis": "y",
+      "orientation_note": "SolidWorks world +Y is upright (matches PreviewPNG floor reflection at -Y; 荧光时钟背板-3 base normal is [-0.0575, -0.9982, -0.0158]), with ~31.6 deg yaw around Y."
+    },
+    "mate_labels_observed": [
+      "重合8",
+      "重合11",
+      "重合12",
+      "重合15",
+      "重合16",
+      "重合18",
+      "重合19",
+      "重合38",
+      "重合40",
+      "重合41",
+      "重合42",
+      "重合43",
+      "重合44",
+      "重合45",
+      "重合46",
+      "重合47",
+      "重合54",
+      "重合55",
+      "重合56",
+      "重合58",
+      "同心1",
+      "重合59",
+      "重合60",
+      "重合61",
+      "重合62",
+      "重合65",
+      "重合66",
+      "平行12",
+      "重合68",
+      "平行13",
+      "重合71",
+      "重合72",
+      "重合74",
+      "同心2",
+      "同心6",
+      "重合77",
+      "同心7",
+      "重合78",
+      "重合79",
+      "重合80",
+      "同心8",
+      "平行17",
+      "重合92",
+      "重合93",
+      "重合94",
+      "重合97",
+      "重合98",
+      "重合99",
+      "重合101",
+      "重合102",
+      "重合103",
+      "平行19"
+    ],
+    "mate_verification_boundary": "Config-0-MatesList contains SolidWorks mate labels only; exact face/edge topological mate constraints cannot be solved externally without SolidWorks."
+  },
+  "files": [
+    {
+      "filename": "Part_10_15.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 245025,
+      "sha256": "30969ac027265dd9f12dd10c40f927a19bf4d9346bfdda99696446a591e15a97",
+      "stream_count": 36,
+      "preview": "previews/Part_10_15.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 1452,
+        "triangles": 484
+      },
+      "bbox_local_mm": {
+        "min": [
+          -3.0,
+          -7.97,
+          -4.725
+        ],
+        "max": [
+          3.0,
+          7.97,
+          4.725
+        ],
+        "span": [
+          6.0,
+          15.939,
+          9.45
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "real侧板2 - 副本.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 122869,
+      "sha256": "a6fff64afaafc897dc03535bb62173bee9364ba894750174aaf800c0620cffe1",
+      "stream_count": 44,
+      "preview": "previews/real侧板2 - 副本.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 534,
+        "triangles": 320
+      },
+      "bbox_local_mm": {
+        "min": [
+          -58.137,
+          -0.0,
+          -39.24
+        ],
+        "max": [
+          40.159,
+          3.0,
+          23.658
+        ],
+        "span": [
+          98.296,
+          3.0,
+          62.898
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "real侧板right - 副本.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 122581,
+      "sha256": "36d1a3d6d5ba8e4c3ea4d88fd5c81b9ae47da7361cb6db6ea0b13c6f6b949123",
+      "stream_count": 44,
+      "preview": "previews/real侧板right - 副本.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 534,
+        "triangles": 320
+      },
+      "bbox_local_mm": {
+        "min": [
+          -58.137,
+          -0.0,
+          -39.24
+        ],
+        "max": [
+          40.159,
+          3.0,
+          23.658
+        ],
+        "span": [
+          98.296,
+          3.0,
+          62.898
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "sky.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 1453453,
+      "sha256": "2999b234b4d542daf9ed11a4de1304893cdcff21f793d40e7bdcafecac5b11c8",
+      "stream_count": 46,
+      "preview": "previews/sky.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 1546,
+        "triangles": 1068
+      },
+      "bbox_local_mm": {
+        "min": [
+          -37.5,
+          -13.957,
+          -17.594
+        ],
+        "max": [
+          37.5,
+          62.062,
+          66.498
+        ],
+        "span": [
+          75.0,
+          76.02,
+          84.092
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "上盖板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 81185,
+      "sha256": "58ac0bc16886c05ae8dfd61fad82b9137f9aa4e8031b99508dafbbeaee8db9ef",
+      "stream_count": 44,
+      "preview": "previews/上盖板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 184,
+        "triangles": 100
+      },
+      "bbox_local_mm": {
+        "min": [
+          -67.313,
+          0.0,
+          -27.604
+        ],
+        "max": [
+          20.187,
+          3.0,
+          26.396
+        ],
+        "span": [
+          87.5,
+          3.0,
+          54.0
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "侧板 - 副本.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 116608,
+      "sha256": "16f275d463fe229ae63fe23a0a5d55fdfad462bc8688dd5df7a79531967b5dff",
+      "stream_count": 44,
+      "preview": "previews/侧板 - 副本.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 782,
+        "triangles": 512
+      },
+      "bbox_local_mm": {
+        "min": [
+          -64.62,
+          -3.0,
+          -12.612
+        ],
+        "max": [
+          38.38,
+          0.0,
+          23.0
+        ],
+        "span": [
+          103.0,
+          3.0,
+          35.612
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "俯仰舵机垫板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 74152,
+      "sha256": "242ae1aa8531eea954e8e06a898dbe05b89c813f0e8f15bfc819b3031edf821d",
+      "stream_count": 45,
+      "preview": "previews/俯仰舵机垫板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 326,
+        "triangles": 228
+      },
+      "bbox_local_mm": {
+        "min": [
+          -46.341,
+          0.0,
+          -15.0
+        ],
+        "max": [
+          -11.841,
+          3.0,
+          0.0
+        ],
+        "span": [
+          34.5,
+          3.0,
+          15.0
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "俯仰舵机安装板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 87052,
+      "sha256": "75cddc373a635757a02886a05d09710331e5729e35fe436995b63fb08b6b5fd2",
+      "stream_count": 44,
+      "preview": "previews/俯仰舵机安装板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 462,
+        "triangles": 300
+      },
+      "bbox_local_mm": {
+        "min": [
+          -45.983,
+          0.0,
+          -16.5
+        ],
+        "max": [
+          8.017,
+          3.0,
+          9.5
+        ],
+        "span": [
+          54.0,
+          3.0,
+          26.0
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "垫板 - 副本.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 93724,
+      "sha256": "a2ce64e2ae8000b5ec1d1c23005cb2698dacf465e89f02a2e3f50993014aed31",
+      "stream_count": 45,
+      "preview": "previews/垫板 - 副本.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 552,
+        "triangles": 380
+      },
+      "bbox_local_mm": {
+        "min": [
+          -15.016,
+          0.0,
+          -15.13
+        ],
+        "max": [
+          22.484,
+          3.0,
+          3.0
+        ],
+        "span": [
+          37.5,
+          3.0,
+          18.13
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "底板 - 副本.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 128183,
+      "sha256": "79b71779d38370abb3aba42955d38d645bbf5c6eafd91ad7f7be17a9c6c9fb3d",
+      "stream_count": 44,
+      "preview": "previews/底板 - 副本.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 1726,
+        "triangles": 1220
+      },
+      "bbox_local_mm": {
+        "min": [
+          -33.839,
+          0.0,
+          -96.512
+        ],
+        "max": [
+          52.491,
+          3.0,
+          -10.512
+        ],
+        "span": [
+          86.329,
+          3.0,
+          86.0
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "舵机安装板 - 副本.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 107578,
+      "sha256": "75a18eb12f62f324aa58dcc11c4bdd1515b5ce2a5fdd2a9b6db56bf3b6c3fc82",
+      "stream_count": 44,
+      "preview": "previews/舵机安装板 - 副本.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 1218,
+        "triangles": 864
+      },
+      "bbox_local_mm": {
+        "min": [
+          -44.906,
+          0.0,
+          -28.843
+        ],
+        "max": [
+          27.094,
+          3.0,
+          -10.843
+        ],
+        "span": [
+          72.0,
+          3.0,
+          18.0
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "舵机安装板侧666 - 副本.step.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 97902,
+      "sha256": "48ea985e95886c757730369dcb45e1ae3843a0943a015b189c0d995f764f358e",
+      "stream_count": 44,
+      "preview": "previews/舵机安装板侧666 - 副本.step.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 358,
+        "triangles": 264
+      },
+      "bbox_local_mm": {
+        "min": [
+          -5.98,
+          -0.0,
+          0.0
+        ],
+        "max": [
+          16.667,
+          3.0,
+          28.667
+        ],
+        "span": [
+          22.646,
+          3.0,
+          28.667
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "荧光时钟上盖板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 87179,
+      "sha256": "38ffc80569e2e4c0162daa0ba7f280c08000152c5f84b5f0b7b22dcf5e3ec5b5",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟上盖板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 184,
+        "triangles": 100
+      },
+      "bbox_local_mm": {
+        "min": [
+          0.0,
+          -54.0,
+          0.0
+        ],
+        "max": [
+          87.5,
+          0.0,
+          3.0
+        ],
+        "span": [
+          87.5,
+          54.0,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟主动臂.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 107564,
+      "sha256": "861ff136b77d2c37357098fd1ca9bad5d4d291cce22e379a66bf21cfa3b61d05",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟主动臂.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 678,
+        "triangles": 516
+      },
+      "bbox_local_mm": {
+        "min": [
+          -6.0,
+          -5.994,
+          0.0
+        ],
+        "max": [
+          41.0,
+          5.994,
+          3.0
+        ],
+        "span": [
+          47.0,
+          11.987,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟从动壁1.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 110199,
+      "sha256": "c379937f6ade122e530d27b63aed76d7088db9403f9441c1554c782f9b9f49b3",
+      "stream_count": 45,
+      "preview": "previews/荧光时钟从动壁1.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 654,
+        "triangles": 492
+      },
+      "bbox_local_mm": {
+        "min": [
+          -6.0,
+          -5.996,
+          0.0
+        ],
+        "max": [
+          51.0,
+          5.996,
+          3.0
+        ],
+        "span": [
+          57.0,
+          11.992,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟从动壁2.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 118488,
+      "sha256": "3d8d117d8a6ecc56aaa03df41141019be14b0a82fd14d048aedaaf530724ff23",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟从动壁2.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 794,
+        "triangles": 612
+      },
+      "bbox_local_mm": {
+        "min": [
+          -6.0,
+          -16.683,
+          0.0
+        ],
+        "max": [
+          61.683,
+          5.984,
+          3.0
+        ],
+        "span": [
+          67.683,
+          22.667,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟侧板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 127703,
+      "sha256": "40d92d63e4f4f581f6e281f02dc15bfa2baef6117238dcd932188a68a3cab544",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟侧板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 532,
+        "triangles": 320
+      },
+      "bbox_local_mm": {
+        "min": [
+          -98.296,
+          -62.898,
+          -0.0
+        ],
+        "max": [
+          0.0,
+          0.0,
+          3.0
+        ],
+        "span": [
+          98.296,
+          62.898,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟俯仰舵机安装板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 94915,
+      "sha256": "10db62989018a2c6b3f617ac04298b304459e03c43492b3fb81be47ef64f504f",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟俯仰舵机安装板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 184,
+        "triangles": 100
+      },
+      "bbox_local_mm": {
+        "min": [
+          -54.0,
+          -26.0,
+          0.0
+        ],
+        "max": [
+          0.0,
+          0.0,
+          3.0
+        ],
+        "span": [
+          54.0,
+          26.0,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟底板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 128273,
+      "sha256": "045bf9f21a17e32aac42ef83cc9d0b9c1876c14b719f70603f1b066f64ba027d",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟底板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 1668,
+        "triangles": 1168
+      },
+      "bbox_local_mm": {
+        "min": [
+          -6.0,
+          -86.0,
+          0.0
+        ],
+        "max": [
+          75.5,
+          0.0,
+          3.0
+        ],
+        "span": [
+          81.5,
+          86.0,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟背板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 127608,
+      "sha256": "70ec27d29a41435f5ffbdd7e8fec8a382a72bdc5098d053b188686dd069164da",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟背板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 760,
+        "triangles": 512
+      },
+      "bbox_local_mm": {
+        "min": [
+          0.0,
+          27.67,
+          0.0
+        ],
+        "max": [
+          103.0,
+          63.17,
+          3.0
+        ],
+        "span": [
+          103.0,
+          35.5,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟舵机垫板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 106324,
+      "sha256": "a51552747901e323bd1922139258052326615d2adc1dbc3fd6574c282419bcaf",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟舵机垫板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 410,
+        "triangles": 280
+      },
+      "bbox_local_mm": {
+        "min": [
+          0.0,
+          -18.0,
+          0.0
+        ],
+        "max": [
+          37.5,
+          0.0,
+          3.0
+        ],
+        "span": [
+          37.5,
+          18.0,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟舵机安装板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 131757,
+      "sha256": "5f723fba9a91c91a6cd07068bfac1ff78e03ab151d64c902f9e2c4c9bd3a08d2",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟舵机安装板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 1250,
+        "triangles": 880
+      },
+      "bbox_local_mm": {
+        "min": [
+          0.0,
+          -18.0,
+          0.0
+        ],
+        "max": [
+          72.0,
+          0.0,
+          3.0
+        ],
+        "span": [
+          72.0,
+          18.0,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟舵机隔板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 107825,
+      "sha256": "8b0a74cf3eb794c221f0b13d3c5f6ee827a6f9c4d643b2389c0c1590e484a346",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟舵机隔板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 506,
+        "triangles": 368
+      },
+      "bbox_local_mm": {
+        "min": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "max": [
+          23.988,
+          24.298,
+          3.0
+        ],
+        "span": [
+          23.988,
+          24.298,
+          3.0
+        ]
+      },
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "荧光时钟装配体.SLDASM",
+      "type": "SLDASM",
+      "size_bytes": 927250,
+      "sha256": "b660ab5798cdfb3514133b1756098a6d62794009faf971d91eaca75d00ce454d",
+      "stream_count": 44,
+      "preview": "previews/荧光时钟装配体.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": null,
+      "bbox_local_mm": null,
+      "referenced_in_assembly": true
+    },
+    {
+      "filename": "隔板.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 92709,
+      "sha256": "200b1056f489f233a78fb15a6dc53392620a259bc83405b861b817e51d64fdd1",
+      "stream_count": 44,
+      "preview": "previews/隔板.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 498,
+        "triangles": 360
+      },
+      "bbox_local_mm": {
+        "min": [
+          -41.304,
+          0.0,
+          -17.166
+        ],
+        "max": [
+          -17.304,
+          3.0,
+          7.116
+        ],
+        "span": [
+          24.0,
+          3.0,
+          24.282
+        ]
+      },
+      "referenced_in_assembly": false
+    },
+    {
+      "filename": "零件1.SLDPRT",
+      "type": "SLDPRT",
+      "size_bytes": 83425,
+      "sha256": "56307327b0e55eb62ec9a771589b2111cdd8cda198a86afb402b8b7acb6126d8",
+      "stream_count": 45,
+      "preview": "previews/零件1.png",
+      "app_info": {
+        "Application": "SOLIDWORKS",
+        "AppVersion": "23.0000"
+      },
+      "has_display_lists": true,
+      "display_lists_mesh": {
+        "vertices": 356,
+        "triangles": 264
+      },
+      "bbox_local_mm": {
+        "min": [
+          -5.98,
+          -0.0,
+          0.0
+        ],
+        "max": [
+          16.667,
+          3.0,
+          28.667
+        ],
+        "span": [
+          22.646,
+          3.0,
+          28.667
+        ]
+      },
+      "referenced_in_assembly": false
+    }
+  ],
+  "top_level_references": [
+    {
+      "name": "荧光时钟从动壁1-1",
+      "source_file": "荧光时钟从动壁1.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        -0.4220137427189651,
+        0.9057792718593766,
+        0.03831855459472089,
+        0.0,
+        -0.7431124853543241,
+        -0.3698180955825926,
+        0.5576902458266451,
+        0.0,
+        0.5193151596736325,
+        0.2068779515790938,
+        0.8291642045358611,
+        0.0,
+        -0.03750331741655456,
+        0.1094065313021849,
+        0.03523076990438899,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟从动壁2-1",
+      "source_file": "荧光时钟从动壁2.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        -0.665618844945952,
+        -0.5105984693381483,
+        0.5442800348739211,
+        0.0,
+        -0.5359695123661052,
+        0.8345601933114111,
+        0.1274596624585975,
+        0.0,
+        -0.519315159673638,
+        -0.2068779515790895,
+        -0.829164204535859,
+        0.0,
+        -0.004434578435939081,
+        0.1336247301318792,
+        0.01571315356227424,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟底板-1",
+      "source_file": "荧光时钟底板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        0.8513357527623283,
+        -0.04073865347613689,
+        -0.5230370906365545,
+        0.0,
+        -0.2109778342222059,
+        0.8862219882743574,
+        -0.4124305286541629,
+        0.0,
+        0.4803288347949844,
+        0.4614660871743406,
+        0.7458775106225529,
+        0.0,
+        -0.1110157308637157,
+        0.1418691996534462,
+        -0.008889308433538821,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟舵机安装板-1",
+      "source_file": "荧光时钟舵机安装板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        -0.8513357527623281,
+        0.040738653476138,
+        0.5230370906365543,
+        0.0,
+        -0.07442580870737453,
+        0.9775182224712692,
+        -0.1972787969723647,
+        0.0,
+        -0.5193151596736353,
+        -0.2068779515790925,
+        -0.8291642045358598,
+        0.0,
+        -0.02030485360586677,
+        0.1551605978189377,
+        0.002933828817470569,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟舵机垫板-1",
+      "source_file": "荧光时钟舵机垫板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        0.05745225332564233,
+        0.9982237988251185,
+        0.01576344020052987,
+        0.0,
+        0.5214658902137397,
+        -0.04346963965920039,
+        0.8521641366377087,
+        0.0,
+        0.8513357527623271,
+        -0.0407386534761366,
+        -0.5230370906365561,
+        0.0,
+        -0.05735420967937839,
+        0.085673134943707,
+        0.03120980483058345,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟舵机隔板-1",
+      "source_file": "荧光时钟舵机隔板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        0.07442580870737382,
+        -0.9775182224712691,
+        0.1972787969723656,
+        0.0,
+        -0.5193151596736375,
+        -0.2068779515790928,
+        -0.8291642045358584,
+        0.0,
+        0.8513357527623268,
+        -0.04073865347613957,
+        -0.5230370906365562,
+        0.0,
+        -0.05067199885543301,
+        0.1573089311790302,
+        0.02503521232994901,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟俯仰舵机安装板-1",
+      "source_file": "荧光时钟俯仰舵机安装板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        0.05745225332564231,
+        0.9982237988251185,
+        0.01576344020052982,
+        0.0,
+        -0.5214658902137399,
+        0.04346963965920035,
+        -0.8521641366377086,
+        0.0,
+        -0.851335752762327,
+        0.04073865347613658,
+        0.5230370906365563,
+        0.0,
+        -0.05905655336448627,
+        0.1145822894518451,
+        0.01471578131894825,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟上盖板-1",
+      "source_file": "荧光时钟上盖板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        -0.8513357527623283,
+        0.04073865347613644,
+        0.5230370906365545,
+        0.0,
+        0.05745225332563898,
+        0.9982237988251186,
+        0.01576344020052483,
+        0.0,
+        -0.5214658902137381,
+        0.04346963965919426,
+        -0.8521641366377098,
+        0.0,
+        -0.01283407685444236,
+        0.1087597845810957,
+        0.01488412089578872,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟主动臂-1",
+      "source_file": "荧光时钟主动臂.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        0.7947272747049242,
+        -0.4736375389358639,
+        -0.3795734982198599,
+        0.0,
+        -0.3141979054246463,
+        -0.8560776803895884,
+        0.4103787048148902,
+        0.0,
+        -0.5193151596736311,
+        -0.2068779515790886,
+        -0.8291642045358635,
+        0.0,
+        -0.0338079785296344,
+        0.149581410139897,
+        0.02651073338636314,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟侧板-2",
+      "source_file": "荧光时钟侧板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        -0.07947068849291875,
+        0.9754609183291085,
+        -0.2053299941143376,
+        0.0,
+        -0.5185671082310029,
+        -0.2163708828042339,
+        -0.8272072263559186,
+        0.0,
+        -0.8513357527623262,
+        0.04073865347613841,
+        0.5230370906365573,
+        0.0,
+        -0.1114376865321609,
+        0.1436416436299943,
+        -0.009714169490848,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟侧板-3",
+      "source_file": "荧光时钟侧板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        -0.07947068849291898,
+        0.9754609183291083,
+        -0.2053299941143377,
+        0.0,
+        -0.5185671082310005,
+        -0.2163708828042343,
+        -0.8272072263559198,
+        0.0,
+        -0.8513357527623276,
+        0.04073865347613766,
+        0.5230370906365553,
+        0.0,
+        -0.04971584445689212,
+        0.1406880912529742,
+        -0.04763435856199857,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟背板-3",
+      "source_file": "荧光时钟背板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        -0.8513357527623281,
+        0.040738653476137,
+        0.5230370906365546,
+        0.0,
+        -0.5214658902137382,
+        0.04346963965919777,
+        -0.8521641366377097,
+        0.0,
+        -0.05745225332564129,
+        -0.9982237988251185,
+        -0.01576344020052753,
+        0.0,
+        0.006703049479570596,
+        0.05622257025114923,
+        0.04504058552504236,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟舵机隔板-2",
+      "source_file": "荧光时钟舵机隔板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        0.07442580870737428,
+        -0.9775182224712694,
+        0.197278796972364,
+        0.0,
+        -0.5193151596736376,
+        -0.2068779515790917,
+        -0.8291642045358586,
+        0.0,
+        0.8513357527623268,
+        -0.04073865347613837,
+        -0.5230370906365566,
+        0.0,
+        -0.02250349320556884,
+        0.1549870373918464,
+        0.00797226713591515,
+        1.0
+      ]
+    },
+    {
+      "name": "荧光时钟舵机隔板-3",
+      "source_file": "荧光时钟舵机隔板.SLDPRT",
+      "doc_type": "PART",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        0.07442580870737428,
+        -0.9775182224712694,
+        0.197278796972364,
+        0.0,
+        -0.5193151596736376,
+        -0.2068779515790917,
+        -0.8291642045358586,
+        0.0,
+        0.8513357527623268,
+        -0.04073865347613837,
+        -0.5230370906365566,
+        0.0,
+        -0.07869165288788238,
+        0.1576757885212715,
+        0.0424927151179279,
+        1.0
+      ]
+    },
+    {
+      "name": "舵机装配体-2",
+      "source_file": "舵机装配体.SLDASM",
+      "doc_type": "ASSEMBLY",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        -0.7086916109668132,
+        -0.4379517370875061,
+        0.5531315182913547,
+        0.0,
+        -0.4775646191652086,
+        0.8748712986105299,
+        0.08082230749684322,
+        0.0,
+        -0.5193151596736346,
+        -0.2068779515790914,
+        -0.8291642045358607,
+        0.0,
+        -0.05335612250298186,
+        0.1348400477460759,
+        0.04793304620045478,
+        1.0
+      ]
+    },
+    {
+      "name": "舵机装配体-3",
+      "source_file": "舵机装配体.SLDASM",
+      "doc_type": "ASSEMBLY",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        0.7086916109668133,
+        0.4379517370875058,
+        -0.5531315182913549,
+        0.0,
+        0.4775646191652089,
+        -0.8748712986105299,
+        -0.08082230749684217,
+        0.0,
+        -0.5193151596736343,
+        -0.2068779515790925,
+        -0.8291642045358606,
+        0.0,
+        -0.03065033713374031,
+        0.1674158614885553,
+        0.02558442566035075,
+        1.0
+      ]
+    },
+    {
+      "name": "舵机装配体-5",
+      "source_file": "舵机装配体.SLDASM",
+      "doc_type": "ASSEMBLY",
+      "suppressed": "NO",
+      "hidden": "NO",
+      "matrix_col_major_m": [
+        0.3029001284128628,
+        0.8521871621187854,
+        0.4266480433886953,
+        0.0,
+        -0.4283444271565489,
+        0.521648735101392,
+        -0.7378371425260765,
+        0.0,
+        -0.8513357527623276,
+        0.04073865347613517,
+        0.5230370906365553,
+        0.0,
+        -0.03606393284717774,
+        0.09921145762743261,
+        0.02859010398169016,
+        1.0
+      ]
+    }
+  ],
+  "leaf_instances": [
+    {
+      "display_name": "荧光时钟从动壁1-1",
+      "sw_dir_name": "荧光时钟从动壁1-1@荧光时钟装配体",
+      "source_file": "荧光时钟从动壁1.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[0:30330]",
+      "step": 3,
+      "vertices": 654,
+      "triangles": 492,
+      "local_bbox_error_vs_xml_mm": 0.00406,
+      "matrix_col_major_m": [
+        -0.42201374,
+        0.90577927,
+        0.03831855,
+        0.0,
+        -0.74311249,
+        -0.3698181,
+        0.55769025,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.03750332,
+        0.10940653,
+        0.03523077,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -61.62,
+          103.552,
+          31.878
+        ],
+        "max": [
+          -30.819,
+          156.642,
+          42.795
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟从动壁2-1",
+      "sw_dir_name": "荧光时钟从动壁2-1@荧光时钟装配体",
+      "source_file": "荧光时钟从动壁2.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[30330:71412]",
+      "step": 4,
+      "vertices": 794,
+      "triangles": 612,
+      "local_bbox_error_vs_xml_mm": 0.0165,
+      "matrix_col_major_m": [
+        -0.66561884,
+        -0.51059847,
+        0.54428003,
+        0.0,
+        -0.53596951,
+        0.83456019,
+        0.12745966,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.00443458,
+        0.13362473,
+        0.01571315,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -43.535,
+          90.979,
+          9.875
+        ],
+        "max": [
+          0.68,
+          139.473,
+          48.23
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟底板-1",
+      "sw_dir_name": "荧光时钟底板-1@荧光时钟装配体",
+      "source_file": "荧光时钟底板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[71412:167822]",
+      "step": 0,
+      "vertices": 1668,
+      "triangles": 1168,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.21097783,
+        0.88622199,
+        -0.41243053,
+        0.0,
+        0.48032883,
+        0.46146609,
+        0.74587751,
+        0.0,
+        -0.11101573,
+        0.1418692,
+        -0.00888931,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -116.124,
+          62.823,
+          -48.379
+        ],
+        "max": [
+          -28.104,
+          143.498,
+          30.1
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟舵机安装板-1",
+      "sw_dir_name": "荧光时钟舵机安装板-1@荧光时钟装配体",
+      "source_file": "荧光时钟舵机安装板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[167822:240934]",
+      "step": 2,
+      "vertices": 1250,
+      "triangles": 880,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.07442581,
+        0.97751822,
+        -0.1972788,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.02030485,
+        0.1551606,
+        0.00293383,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -83.159,
+          136.945,
+          0.446
+        ],
+        "max": [
+          -18.965,
+          158.094,
+          44.144
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟舵机垫板-1",
+      "sw_dir_name": "荧光时钟舵机垫板-1@荧光时钟装配体",
+      "source_file": "荧光时钟舵机垫板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[240934:271920]",
+      "step": 1,
+      "vertices": 410,
+      "triangles": 280,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        0.05745225,
+        0.9982238,
+        0.01576344,
+        0.0,
+        0.52146589,
+        -0.04346964,
+        0.85216414,
+        0.0,
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.05735421,
+        0.08567313,
+        0.0312098,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -66.741,
+          85.551,
+          14.302
+        ],
+        "max": [
+          -52.818,
+          123.715,
+          31.754
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟舵机隔板-1",
+      "sw_dir_name": "荧光时钟舵机隔板-1@荧光时钟装配体",
+      "source_file": "荧光时钟舵机隔板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[271920:308346]",
+      "step": 2,
+      "vertices": 506,
+      "triangles": 368,
+      "local_bbox_error_vs_xml_mm": 0.01159,
+      "matrix_col_major_m": [
+        0.07442581,
+        -0.97751822,
+        0.1972788,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.050672,
+        0.15730893,
+        0.02503521,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -62.667,
+          130.889,
+          4.885
+        ],
+        "max": [
+          -46.778,
+          157.309,
+          28.586
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟俯仰舵机安装板-1",
+      "sw_dir_name": "荧光时钟俯仰舵机安装板-1@荧光时钟装配体",
+      "source_file": "荧光时钟俯仰舵机安装板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[308346:334684]",
+      "step": 1,
+      "vertices": 184,
+      "triangles": 100,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        0.05745225,
+        0.9982238,
+        0.01576344,
+        0.0,
+        -0.52146589,
+        0.04346964,
+        -0.85216414,
+        0.0,
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.05905655,
+        0.11458229,
+        0.01471578,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -64.713,
+          59.678,
+          13.865
+        ],
+        "max": [
+          -45.498,
+          114.705,
+          38.441
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟上盖板-1",
+      "sw_dir_name": "荧光时钟上盖板-1@荧光时钟装配体",
+      "source_file": "荧光时钟上盖板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[334684:361022]",
+      "step": 2,
+      "vertices": 184,
+      "triangles": 100,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        0.05745225,
+        0.9982238,
+        0.01576344,
+        0.0,
+        -0.52146589,
+        0.04346964,
+        -0.85216414,
+        0.0,
+        -0.01283408,
+        0.10875978,
+        0.01488412,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -91.993,
+          54.856,
+          11.476
+        ],
+        "max": [
+          -12.834,
+          111.966,
+          60.114
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟主动臂-1",
+      "sw_dir_name": "荧光时钟主动臂-1@荧光时钟装配体",
+      "source_file": "荧光时钟主动臂.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[361022:392162]",
+      "step": 3,
+      "vertices": 678,
+      "triangles": 516,
+      "local_bbox_error_vs_xml_mm": 0.0064,
+      "matrix_col_major_m": [
+        0.79472727,
+        -0.47363754,
+        -0.3795735,
+        0.0,
+        -0.31419791,
+        -0.85607768,
+        0.4103787,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.03380798,
+        0.14958141,
+        0.02651073,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -40.483,
+          126.517,
+          7.39
+        ],
+        "max": [
+          -0.876,
+          155.448,
+          29.859
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟侧板-2",
+      "sw_dir_name": "荧光时钟侧板-2@荧光时钟装配体",
+      "source_file": "荧光时钟侧板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[392162:452948]",
+      "step": 0,
+      "vertices": 532,
+      "triangles": 320,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        -0.07947069,
+        0.97546092,
+        -0.20532999,
+        0.0,
+        -0.51856711,
+        -0.21637088,
+        -0.82720723,
+        0.0,
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.11143769,
+        0.14364164,
+        -0.00971417,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -113.992,
+          57.94,
+          -9.714
+        ],
+        "max": [
+          -74.786,
+          156.746,
+          54.31
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟侧板-3",
+      "sw_dir_name": "荧光时钟侧板-3@荧光时钟装配体",
+      "source_file": "荧光时钟侧板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[392162:452948]",
+      "step": 0,
+      "vertices": 532,
+      "triangles": 320,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        -0.07947069,
+        0.97546092,
+        -0.20532999,
+        0.0,
+        -0.51856711,
+        -0.21637088,
+        -0.82720723,
+        0.0,
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.04971584,
+        0.14068809,
+        -0.04763436,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -52.27,
+          54.986,
+          -47.634
+        ],
+        "max": [
+          -13.064,
+          153.793,
+          16.39
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟背板-3",
+      "sw_dir_name": "荧光时钟背板-3@荧光时钟装配体",
+      "source_file": "荧光时钟背板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-010[0:61734]",
+      "step": 0,
+      "vertices": 760,
+      "triangles": 512,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.52146589,
+        0.04346964,
+        -0.85216414,
+        0.0,
+        -0.05745225,
+        -0.9982238,
+        -0.01576344,
+        0.0,
+        0.00670305,
+        0.05622257,
+        0.04504059,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -110.35,
+          54.958,
+          -8.838
+        ],
+        "max": [
+          -14.244,
+          62.917,
+          75.334
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟舵机隔板-2",
+      "sw_dir_name": "荧光时钟舵机隔板-2@荧光时钟装配体",
+      "source_file": "荧光时钟舵机隔板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[271920:308346]",
+      "step": 2,
+      "vertices": 506,
+      "triangles": 368,
+      "local_bbox_error_vs_xml_mm": 0.01159,
+      "matrix_col_major_m": [
+        0.07442581,
+        -0.97751822,
+        0.1972788,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.02250349,
+        0.15498704,
+        0.00797227,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -34.498,
+          128.567,
+          -12.178
+        ],
+        "max": [
+          -18.61,
+          154.987,
+          11.523
+        ]
+      }
+    },
+    {
+      "display_name": "荧光时钟舵机隔板-3",
+      "sw_dir_name": "荧光时钟舵机隔板-3@荧光时钟装配体",
+      "source_file": "荧光时钟舵机隔板.SLDPRT",
+      "in_zip": true,
+      "mesh_source": "FaceTessellations/000-000-009[271920:308346]",
+      "step": 2,
+      "vertices": 506,
+      "triangles": 368,
+      "local_bbox_error_vs_xml_mm": 0.01159,
+      "matrix_col_major_m": [
+        0.07442581,
+        -0.97751822,
+        0.1972788,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.07869165,
+        0.15767579,
+        0.04249272,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -90.687,
+          131.256,
+          22.342
+        ],
+        "max": [
+          -74.798,
+          157.676,
+          46.044
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/feedback potentiometer18-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/feedback potentiometer18-1@舵机装配体",
+      "source_file": "feedback potentiometer18.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[61734:81586]",
+      "step": 2,
+      "vertices": 438,
+      "triangles": 310,
+      "local_bbox_error_vs_xml_mm": 0.00697,
+      "matrix_col_major_m": [
+        -0.70869161,
+        -0.43795174,
+        0.55313152,
+        0.0,
+        -0.47756462,
+        0.8748713,
+        0.08082231,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.06116426,
+        0.14943443,
+        0.01728443,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -70.556,
+          142.359,
+          16.846
+        ],
+        "max": [
+          -59.847,
+          150.411,
+          30.998
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/lower cover22-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/lower cover22-1@舵机装配体",
+      "source_file": "lower cover22.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[81586:129378]",
+      "step": 2,
+      "vertices": 890,
+      "triangles": 648,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        0.07442581,
+        -0.97751822,
+        0.1972788,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.07654211,
+        0.14421244,
+        0.01501563,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -86.559,
+          137.987,
+          7.968
+        ],
+        "max": [
+          -58.268,
+          153.727,
+          35.247
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/motor20-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/motor20-1@舵机装配体",
+      "source_file": "motor20.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[129378:223914]",
+      "step": 2,
+      "vertices": 2504,
+      "triangles": 1882,
+      "local_bbox_error_vs_xml_mm": 0.05752,
+      "matrix_col_major_m": [
+        -0.70869161,
+        -0.43795174,
+        0.55313152,
+        0.0,
+        -0.47756462,
+        0.8748713,
+        0.08082231,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.07809389,
+        0.14532584,
+        0.0342566,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -83.058,
+          141.715,
+          20.303
+        ],
+        "max": [
+          -70.959,
+          151.496,
+          33.787
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/Part10^servo motor assembley10-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/Part10^servo motor assembley10-1@舵机装配体",
+      "source_file": "Part10^servo motor assembley10.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[223914:1020400]",
+      "step": 2,
+      "vertices": 9842,
+      "triangles": 6256,
+      "local_bbox_error_vs_xml_mm": 0.00581,
+      "matrix_col_major_m": [
+        0.23024073,
+        0.90050876,
+        -0.36888098,
+        0.0,
+        -0.82298297,
+        0.38247285,
+        0.42001612,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.06141999,
+        0.15406794,
+        0.02375033,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -66.451,
+          143.694,
+          24.228
+        ],
+        "max": [
+          -54.603,
+          152.375,
+          38.19
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/Part16^servo motor assembley4-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/Part16^servo motor assembley4-1@舵机装配体",
+      "source_file": "Part16^servo motor assembley4.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[1020400:1111838]",
+      "step": 2,
+      "vertices": 1478,
+      "triangles": 1034,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        0.07442581,
+        -0.97751822,
+        0.1972788,
+        0.0,
+        -0.08187609,
+        0.15091143,
+        0.02284903,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -85.836,
+          148.849,
+          13.872
+        ],
+        "max": [
+          -70.932,
+          151.997,
+          27.911
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/Part6^servo motor assembley16-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/Part6^servo motor assembley16-1@舵机装配体",
+      "source_file": "Part6^servo motor assembley16.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[1111838:1121148]",
+      "step": 2,
+      "vertices": 226,
+      "triangles": 168,
+      "local_bbox_error_vs_xml_mm": 0.0021,
+      "matrix_col_major_m": [
+        -0.60884635,
+        0.77041856,
+        0.18910673,
+        0.0,
+        -0.59968148,
+        -0.60303959,
+        0.52604693,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.06702857,
+        0.14863669,
+        0.0315916,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -71.546,
+          145.897,
+          24.453
+        ],
+        "max": [
+          -65.072,
+          149.433,
+          33.583
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/Part7^servo motor assembley14-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/Part7^servo motor assembley14-1@舵机装配体",
+      "source_file": "Part7^servo motor assembley14.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[1121148:2035964]",
+      "step": 2,
+      "vertices": 11876,
+      "triangles": 7384,
+      "local_bbox_error_vs_xml_mm": 0.00013,
+      "matrix_col_major_m": [
+        0.58565468,
+        0.62043527,
+        -0.52160203,
+        0.0,
+        -0.62235068,
+        0.75647973,
+        0.2010424,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.06806799,
+        0.14816102,
+        0.02789895,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -72.943,
+          142.629,
+          25.643
+        ],
+        "max": [
+          -62.459,
+          153.006,
+          34.559
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/Part8^servo motor assembley12-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/Part8^servo motor assembley12-1@舵机装配体",
+      "source_file": "Part8^servo motor assembley12.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[2035964:2156418]",
+      "step": 2,
+      "vertices": 1632,
+      "triangles": 1040,
+      "local_bbox_error_vs_xml_mm": 0.00076,
+      "matrix_col_major_m": [
+        0.45745246,
+        0.75224759,
+        -0.4741949,
+        0.0,
+        0.72183725,
+        -0.62555981,
+        -0.29601675,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.07532164,
+        0.14421327,
+        0.03611449,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -75.4,
+          146.199,
+          30.853
+        ],
+        "max": [
+          -71.621,
+          149.77,
+          34.271
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/upper cover8-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/upper cover8-1@舵机装配体",
+      "source_file": "upper cover8.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[2156418:2248522]",
+      "step": 2,
+      "vertices": 1686,
+      "triangles": 1218,
+      "local_bbox_error_vs_xml_mm": 0.0001,
+      "matrix_col_major_m": [
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.07442581,
+        0.97751822,
+        -0.1972788,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.06825799,
+        0.14751256,
+        0.02824245,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -82.276,
+          141.095,
+          18.736
+        ],
+        "max": [
+          -52.942,
+          155.301,
+          40.929
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-2/舵机转动臂-1",
+      "sw_dir_name": "舵机装配体-2@荧光时钟装配体/舵机转动臂-1@舵机装配体",
+      "source_file": "舵机转动臂.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-011[0:260670]",
+      "step": 2,
+      "vertices": 3296,
+      "triangles": 2178,
+      "local_bbox_error_vs_xml_mm": 0.00687,
+      "matrix_col_major_m": [
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.56859277,
+        0.80797544,
+        0.15452493,
+        0.0,
+        0.63797651,
+        0.55170391,
+        -0.5372232,
+        0.0,
+        -0.12312052,
+        0.15074839,
+        0.07981834,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -60.217,
+          146.388,
+          26.605
+        ],
+        "max": [
+          -41.277,
+          153.556,
+          38.891
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/feedback potentiometer18-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/feedback potentiometer18-1@舵机装配体",
+      "source_file": "feedback potentiometer18.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[61734:81586]",
+      "step": 2,
+      "vertices": 438,
+      "triangles": 310,
+      "local_bbox_error_vs_xml_mm": 0.00697,
+      "matrix_col_major_m": [
+        0.70869161,
+        0.43795174,
+        -0.55313152,
+        0.0,
+        0.47756462,
+        -0.8748713,
+        -0.08082231,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.05031227,
+        0.14187831,
+        0.01237297,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -50.106,
+          140.384,
+          4.358
+        ],
+        "max": [
+          -38.719,
+          148.436,
+          18.066
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/lower cover22-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/lower cover22-1@舵机装配体",
+      "source_file": "lower cover22.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[81586:129378]",
+      "step": 2,
+      "vertices": 890,
+      "triangles": 648,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.07442581,
+        0.97751822,
+        -0.1972788,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.0463048,
+        0.14257072,
+        -0.00351273,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -56.321,
+          136.345,
+          -10.561
+        ],
+        "max": [
+          -28.031,
+          152.086,
+          16.719
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/motor20-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/motor20-1@舵机装配体",
+      "source_file": "motor20.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[129378:223914]",
+      "step": 2,
+      "vertices": 2504,
+      "triangles": 1882,
+      "local_bbox_error_vs_xml_mm": 0.05752,
+      "matrix_col_major_m": [
+        0.70869161,
+        0.43795174,
+        -0.55313152,
+        0.0,
+        0.47756462,
+        -0.8748713,
+        -0.08082231,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.02878055,
+        0.14782023,
+        0.00274873,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -41.329,
+          139.523,
+          -5.289
+        ],
+        "max": [
+          -29.229,
+          149.304,
+          8.197
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/Part10^servo motor assembley10-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/Part10^servo motor assembley10-1@舵机装配体",
+      "source_file": "Part10^servo motor assembley10.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[223914:1020400]",
+      "step": 2,
+      "vertices": 9842,
+      "triangles": 6256,
+      "local_bbox_error_vs_xml_mm": 0.00581,
+      "matrix_col_major_m": [
+        -0.23024073,
+        -0.90050876,
+        0.36888098,
+        0.0,
+        0.82298297,
+        -0.38247285,
+        -0.42001612,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.04363047,
+        0.13980474,
+        0.01616724,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -45.319,
+          142.485,
+          11.294
+        ],
+        "max": [
+          -33.475,
+          151.166,
+          25.258
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/Part16^servo motor assembley4-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/Part16^servo motor assembley4-1@舵机装配体",
+      "source_file": "Part16^servo motor assembley4.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[1020400:1111838]",
+      "step": 2,
+      "vertices": 1478,
+      "triangles": 1034,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.07442581,
+        0.97751822,
+        -0.1972788,
+        0.0,
+        -0.03566235,
+        0.13798645,
+        -0.00287037,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -46.464,
+          136.958,
+          -7.705
+        ],
+        "max": [
+          -31.56,
+          139.893,
+          6.334
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/Part6^servo motor assembley16-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/Part6^servo motor assembley16-1@舵机装配体",
+      "source_file": "Part6^servo motor assembley16.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[1111838:1121148]",
+      "step": 2,
+      "vertices": 226,
+      "triangles": 168,
+      "local_bbox_error_vs_xml_mm": 0.0021,
+      "matrix_col_major_m": [
+        0.60884635,
+        -0.77041856,
+        -0.18910673,
+        0.0,
+        0.59968148,
+        0.60303959,
+        -0.52604693,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.03546118,
+        0.14625608,
+        0.01241454,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -40.533,
+          144.218,
+          5.449
+        ],
+        "max": [
+          -34.06,
+          147.754,
+          14.578
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/Part7^servo motor assembley14-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/Part7^servo motor assembley14-1@舵机装配体",
+      "source_file": "Part7^servo motor assembley14.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[1121148:2035964]",
+      "step": 2,
+      "vertices": 11876,
+      "triangles": 7384,
+      "local_bbox_error_vs_xml_mm": 0.00013,
+      "matrix_col_major_m": [
+        -0.58565468,
+        -0.62043527,
+        0.52160203,
+        0.0,
+        0.62235068,
+        -0.75647973,
+        -0.2010424,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.03826469,
+        0.14520086,
+        0.00997137,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -41.933,
+          140.95,
+          6.638
+        ],
+        "max": [
+          -31.445,
+          151.328,
+          15.552
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/Part8^servo motor assembley12-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/Part8^servo motor assembley12-1@舵机装配体",
+      "source_file": "Part8^servo motor assembley12.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[2035964:2156418]",
+      "step": 2,
+      "vertices": 1632,
+      "triangles": 1040,
+      "local_bbox_error_vs_xml_mm": 0.00076,
+      "matrix_col_major_m": [
+        -0.45745246,
+        -0.75224759,
+        0.4741949,
+        0.0,
+        -0.72183725,
+        0.62555981,
+        0.29601675,
+        0.0,
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        -0.02869656,
+        0.15007062,
+        0.00545124,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -33.669,
+          144.007,
+          5.264
+        ],
+        "max": [
+          -29.891,
+          147.578,
+          8.681
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/upper cover8-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/upper cover8-1@舵机装配体",
+      "source_file": "upper cover8.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[2156418:2248522]",
+      "step": 2,
+      "vertices": 1686,
+      "triangles": 1218,
+      "local_bbox_error_vs_xml_mm": 0.0001,
+      "matrix_col_major_m": [
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        0.07442581,
+        -0.97751822,
+        0.1972788,
+        0.0,
+        0.51931516,
+        0.20687795,
+        0.8291642,
+        0.0,
+        -0.03802069,
+        0.14587083,
+        0.00971409,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -52.039,
+          139.454,
+          0.208
+        ],
+        "max": [
+          -22.704,
+          154.093,
+          24.76
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-3/舵机转动臂-1",
+      "sw_dir_name": "舵机装配体-3@荧光时钟装配体/舵机转动臂-1@舵机装配体",
+      "source_file": "舵机转动臂.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-011[0:260670]",
+      "step": 2,
+      "vertices": 3296,
+      "triangles": 2178,
+      "local_bbox_error_vs_xml_mm": 0.00687,
+      "matrix_col_major_m": [
+        -0.51931516,
+        -0.20687795,
+        -0.8291642,
+        0.0,
+        0.56859277,
+        -0.80797544,
+        -0.15452493,
+        0.0,
+        -0.63797651,
+        -0.55170391,
+        0.5372232,
+        0.0,
+        0.03236247,
+        0.14881791,
+        -0.0170808,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -51.26,
+          145.301,
+          20.181
+        ],
+        "max": [
+          -32.402,
+          152.47,
+          33.293
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/feedback potentiometer18-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/feedback potentiometer18-1@舵机装配体",
+      "source_file": "feedback potentiometer18.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[61734:81586]",
+      "step": 1,
+      "vertices": 438,
+      "triangles": 310,
+      "local_bbox_error_vs_xml_mm": 0.00697,
+      "matrix_col_major_m": [
+        0.30290013,
+        0.85218716,
+        0.42664804,
+        0.0,
+        -0.42834443,
+        0.52164874,
+        -0.73783714,
+        0.0,
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.06998065,
+        0.09242432,
+        0.02448016,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -72.143,
+          94.361,
+          21.076
+        ],
+        "max": [
+          -57.858,
+          102.16,
+          31.827
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/lower cover22-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/lower cover22-1@舵机装配体",
+      "source_file": "lower cover22.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[81586:129378]",
+      "step": 1,
+      "vertices": 890,
+      "triangles": 648,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        0.05745225,
+        0.9982238,
+        0.01576344,
+        0.0,
+        0.52146589,
+        -0.04346964,
+        0.85216414,
+        0.0,
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.07679723,
+        0.10438916,
+        0.03338362,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -80.52,
+          92.255,
+          19.862
+        ],
+        "max": [
+          -59.538,
+          115.876,
+          38.589
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/motor20-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/motor20-1@舵机装配体",
+      "source_file": "motor20.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[129378:223914]",
+      "step": 1,
+      "vertices": 2504,
+      "triangles": 1882,
+      "local_bbox_error_vs_xml_mm": 0.05752,
+      "matrix_col_major_m": [
+        0.30290013,
+        0.85218716,
+        0.42664804,
+        0.0,
+        -0.42834443,
+        0.52164874,
+        -0.73783714,
+        0.0,
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.06169673,
+        0.11505987,
+        0.02772912,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -74.433,
+          106.597,
+          22.115
+        ],
+        "max": [
+          -60.797,
+          114.824,
+          34.231
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/Part10^servo motor assembley10-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/Part10^servo motor assembley10-1@舵机装配体",
+      "source_file": "Part10^servo motor assembley10.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[223914:1020400]",
+      "step": 1,
+      "vertices": 9842,
+      "triangles": 6256,
+      "local_bbox_error_vs_xml_mm": 0.00581,
+      "matrix_col_major_m": [
+        -0.50827849,
+        -0.31095614,
+        -0.80309355,
+        0.0,
+        -0.12992465,
+        0.94955076,
+        -0.28543466,
+        0.0,
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.06620238,
+        0.09609619,
+        0.01851487,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -64.579,
+          94.163,
+          15.809
+        ],
+        "max": [
+          -50.551,
+          102.278,
+          27.69
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/Part16^servo motor assembley4-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/Part16^servo motor assembley4-1@舵机装配体",
+      "source_file": "Part16^servo motor assembley4.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[1020400:1111838]",
+      "step": 1,
+      "vertices": 1478,
+      "triangles": 1034,
+      "local_bbox_error_vs_xml_mm": 0.0,
+      "matrix_col_major_m": [
+        0.05745225,
+        0.9982238,
+        0.01576344,
+        0.0,
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        0.52146589,
+        -0.04346964,
+        0.85216414,
+        0.0,
+        -0.07474999,
+        0.11331093,
+        0.02624915,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -79.242,
+          103.265,
+          23.539
+        ],
+        "max": [
+          -70.355,
+          115.334,
+          29.341
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/Part6^servo motor assembley16-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/Part6^servo motor assembley16-1@舵机装配体",
+      "source_file": "Part6^servo motor assembley16.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[1111838:1121148]",
+      "step": 1,
+      "vertices": 226,
+      "triangles": 168,
+      "local_bbox_error_vs_xml_mm": 0.0021,
+      "matrix_col_major_m": [
+        -0.3596253,
+        0.6805612,
+        -0.63836204,
+        0.0,
+        0.38196476,
+        0.7315578,
+        0.56473543,
+        0.0,
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.06024867,
+        0.10435528,
+        0.02284853,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -67.289,
+          103.214,
+          21.455
+        ],
+        "max": [
+          -57.989,
+          105.121,
+          27.962
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/Part7^servo motor assembley14-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/Part7^servo motor assembley14-1@舵机装配体",
+      "source_file": "Part7^servo motor assembley14.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[1121148:2035964]",
+      "step": 1,
+      "vertices": 11876,
+      "triangles": 7384,
+      "local_bbox_error_vs_xml_mm": 0.00013,
+      "matrix_col_major_m": [
+        -0.39005884,
+        -0.71586291,
+        -0.57913244,
+        0.0,
+        -0.35082978,
+        0.6970514,
+        -0.62533016,
+        0.0,
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.0636376,
+        0.10345686,
+        0.0244765,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -65.856,
+          99.166,
+          18.855
+        ],
+        "max": [
+          -57.183,
+          109.192,
+          29.336
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/Part8^servo motor assembley12-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/Part8^servo motor assembley12-1@舵机装配体",
+      "source_file": "Part8^servo motor assembley12.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[2035964:2156418]",
+      "step": 1,
+      "vertices": 1632,
+      "triangles": 1040,
+      "local_bbox_error_vs_xml_mm": 0.00076,
+      "matrix_col_major_m": [
+        -0.4493442,
+        -0.57119244,
+        -0.68689808,
+        0.0,
+        0.27077153,
+        -0.81980458,
+        0.50458223,
+        0.0,
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.05857208,
+        0.11344452,
+        0.02768311,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -63.695,
+          108.781,
+          22.761
+        ],
+        "max": [
+          -60.343,
+          112.096,
+          26.537
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/upper cover8-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/upper cover8-1@舵机装配体",
+      "source_file": "upper cover8.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-010[2156418:2248522]",
+      "step": 1,
+      "vertices": 1686,
+      "triangles": 1218,
+      "local_bbox_error_vs_xml_mm": 0.0001,
+      "matrix_col_major_m": [
+        -0.05745225,
+        -0.9982238,
+        -0.01576344,
+        0.0,
+        -0.52146589,
+        0.04346964,
+        -0.85216414,
+        0.0,
+        0.85133575,
+        -0.04073865,
+        -0.52303709,
+        0.0,
+        -0.06321673,
+        0.10373929,
+        0.02504014,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -67.21,
+          87.459,
+          14.285
+        ],
+        "max": [
+          -51.24,
+          119.917,
+          30.319
+        ]
+      }
+    },
+    {
+      "display_name": "舵机装配体-5/舵机转动臂-1",
+      "sw_dir_name": "舵机装配体-5@荧光时钟装配体/舵机转动臂-1@舵机装配体",
+      "source_file": "舵机转动臂.SLDPRT",
+      "in_zip": false,
+      "mesh_source": "FaceTessellations/000-000-011[0:260670]",
+      "step": 1,
+      "vertices": 3296,
+      "triangles": 2178,
+      "local_bbox_error_vs_xml_mm": 0.00687,
+      "matrix_col_major_m": [
+        -0.85133575,
+        0.04073865,
+        0.52303709,
+        0.0,
+        -0.38368506,
+        0.63158682,
+        -0.67370903,
+        0.0,
+        -0.35778933,
+        -0.7742341,
+        -0.52206163,
+        0.0,
+        -0.04472697,
+        0.17668647,
+        0.02088339,
+        1.0
+      ],
+      "world_bbox_mm": {
+        "min": [
+          -55.521,
+          80.031,
+          14.734
+        ],
+        "max": [
+          -49.888,
+          101.357,
+          21.422
+        ]
+      }
+    }
+  ]
+}
